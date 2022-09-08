@@ -1,0 +1,91 @@
+.new {
+  max-width:100%;
+
+
+}
+
+
+
+/* .mango{
+  height: 30px;
+  width: 120px;
+opacity: 0.2;
+
+}
+
+.zara{
+  height: 30px;
+  width: 120px;
+opacity: 0.2;
+
+}
+
+.reebok{
+  height: 30px;
+  width: 120px;
+opacity: 0.2;
+
+}
+.asos{
+  height: 30px;
+  width: 120px;
+opacity: 0.2;
+
+}
+
+.stradivarius{
+  height: 30px;
+  width: 120px;
+opacity: 0.2;
+
+}
+
+.bershka{
+
+  height: 30px;
+  width: 120px;
+opacity: 0.2;
+
+}
+
+.adidas{
+
+  height: 30px;
+  width: 120px;
+opacity: 0.2;
+
+} */
+
+/* .logos{
+  max-width: 100%;
+padding-top: 5%;
+
+} */
+
+
+@media (min-width: 768px){
+  .seven-cols .col-md-1,
+  .seven-cols .col-sm-1,
+  .seven-cols .col-lg-1  {
+    width: 100%;
+    *width: 100%;
+  }
+}
+@media (min-width: 992px) {
+  .seven-cols .col-md-1,
+  .seven-cols .col-sm-1,
+  .seven-cols .col-lg-1 {
+    width: 14.285714285714285714285714285714%;
+    *width: 14.285714285714285714285714285714%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .seven-cols .col-md-1,
+  .seven-cols .col-sm-1,
+  .seven-cols .col-lg-1 {
+    width: 14.285714285714285714285714285714%;
+    *width: 14.285714285714285714285714285714%;
+  }
+}
+

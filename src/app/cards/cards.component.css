@@ -1,0 +1,32 @@
+.btn {
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 0%;
+}
+
+.title {
+  padding-top: 35%;
+  color: cornsilk;
+}
+
+.buton1 {
+  padding-top: 1px;
+  padding: 2px;
+  margin-left: 25px;
+}
+
+.card1 {
+  padding-top: 160px;
+}
+
+.card2 {
+  padding-top: 170px;
+}
+
+.title2 {
+  padding-top: 40%;
+}
